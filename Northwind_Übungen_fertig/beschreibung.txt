@@ -1,0 +1,1 @@
+Power BI Musterlösung für Übungen auf Basis der Northwind-Datenbank. Enthält fertige Berichte und Datenmodelle zu Verkaufsauswertungen, Kundenanalysen und Produktstatistiken der fiktiven Northwind-Handelsfirma.

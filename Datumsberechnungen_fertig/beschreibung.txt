@@ -1,0 +1,1 @@
+Power BI Musterlösung für Datumsberechnungen mit DAX. Enthält fertige Kalender-Tabellen und Zeitintelligenz-Formeln (z. B. Year-to-Date, Vorjahresvergleich, gleitende Durchschnitte) zur Analyse von Zeitreihendaten.

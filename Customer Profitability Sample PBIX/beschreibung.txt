@@ -1,0 +1,1 @@
+Power BI Beispieldatei zur Analyse der Kundenprofitabilität. Enthält ein vorgefertigtes Microsoft-Beispieldashboard mit Berichten zu Umsatz, Gewinn und Rentabilität verschiedener Kunden und Geschäftsbereiche.

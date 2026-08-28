@@ -1,0 +1,1 @@
+Power BI Datei zur Auswertung von Bestwerten. Zeigt, wie man die besten Einträge einer Kategorie (z. B. bester Umsatz je Region oder Mitarbeiter) mithilfe von DAX-Ranking-Funktionen ermittelt und darstellt.

@@ -1,0 +1,1 @@
+Power BI Beispieldatei zur Demonstration von Filterrichtungen in Datenmodellen. Zeigt, wie bidirektionale und einseitige Kreuzfilterung zwischen Tabellen funktioniert und welche Auswirkungen diese auf Berechnungen und Visualisierungen haben.

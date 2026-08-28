@@ -1,0 +1,1 @@
+ZIP-Archiv mit den Kursmaterialien zum Power BI Kompaktkurs. Enthält Power BI Berichtsdateien, Übungsdaten und weitere Ressourcen, die im Rahmen des Schulungskurses 'Power BI Days kompakt' (Kursnummer 270041) verwendet werden.

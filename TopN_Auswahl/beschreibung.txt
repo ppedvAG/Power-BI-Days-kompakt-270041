@@ -1,0 +1,1 @@
+Power BI Datei zur Demonstration der Top-N-Auswahl in Visualisierungen. Zeigt, wie man die besten oder schlechtesten N Datenpunkte (z. B. Top 10 Produkte oder Kunden) mithilfe von Filtern und DAX-Formeln darstellen kann.
