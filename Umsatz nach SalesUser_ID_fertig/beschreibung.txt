@@ -1,0 +1,1 @@
+Power BI Musterlösung zur Umsatzanalyse nach Verkäufer-ID. Enthält fertige Berichte, die den Umsatz einzelnen Vertriebsmitarbeitern zuordnen und deren Leistung vergleichbar machen.

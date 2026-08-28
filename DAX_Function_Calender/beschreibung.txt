@@ -1,0 +1,1 @@
+Textdatei mit einer DAX-Formel zur Erstellung einer Kalendertabelle in Power BI. Die Formel erzeugt mithilfe von ADDCOLUMNS und CALENDAR eine vollständige Datumstabelle für die Jahre 2017–2018 mit Spalten wie Jahr, Monat, Quartal, Wochentag und weiteren Datumsattributen.
